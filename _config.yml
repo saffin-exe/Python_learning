@@ -1,0 +1,7 @@
+# Jupyter Book Configuration
+title: Python Learning Platform
+author: saffin-exe
+logo: ""
+repository:
+  url: https://github.com/saffin-exe/Python_learning
+  path_to_book: ""
